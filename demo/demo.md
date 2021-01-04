@@ -12,7 +12,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: test
-  headline: ''
+  headline: Headline
   content: ''
   cta:
     enabled: false
