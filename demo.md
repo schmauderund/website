@@ -12,5 +12,18 @@ col_3:
   headline: ''
   slug: ''
   content: ''
+blocklinger:
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2018/06/21/edit.gif"
+  headline: Hier kommt es
+  image:
+    image: ''
+    alt_text: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
